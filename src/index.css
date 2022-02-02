@@ -1,13 +1,65 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: "Inter", sans-serif;
+  background-color: #282d35;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: "Inter", sans-serif;
+}
+
+main {
+  background: rgba(51, 55, 62, 1) url("images/logo512lefthalf.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 12em;
+  background-color: #282d35;
+}
+
+.blue-highlight {
+  color: #61dafb;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 25px;
+  background-color: #21222a;
+  height: 90px;
+  align-items: center;
+}
+
+.nav-bar img {
+  height: 30px;
+}
+
+.flex-row {
+  display: flex;
+  align-items: center;
+}
+
+.white-text {
+  color: #deebf8;
+}
+
+.main-body {
+  padding: 20px;
+}
+
+.main-body ul {
+  padding-top: 20px;
+  line-height: 2;
+  max-width: 23em;
+  text-decoration-color: #61dafb;
+}
+
+.main-body ul li::marker {
+  font-size: 1.4rem;
+  color: #61dafb;
+}
+
+.main-text {
+  color: white;
 }
