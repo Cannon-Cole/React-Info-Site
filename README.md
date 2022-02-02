@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# React-Info-Site
+
+Small React project to demonstrate React competency. Be sure to look at the other repos with more advanced React projects.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# React-Info-Site
-Small React project to demonstrate React competency
->>>>>>> 1b5df527755b760ac04194a1c3de96de4d7e6439
