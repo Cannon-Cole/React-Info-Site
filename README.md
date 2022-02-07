@@ -2,6 +2,8 @@
 
 Small React project to demonstrate React competency. Be sure to look at the other repos with more advanced React projects.
 
+![Screenshot](preview-react-info-site.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
