@@ -1,6 +1,6 @@
 # React-Info-Site
 
-Small React project to demonstrate React competency. Be sure to look at the other repos with more advanced React projects.
+Small React project to demonstrate the most basic React concepts
 
 ![Screenshot](preview-react-info-site.png)
 
